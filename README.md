@@ -1,5 +1,11 @@
 # DHU-AILAB 自主飞行器项目组 暑期学习
 ---
+### 2024/7/14更新
+方向2 ROS补充资料
+
+[【【古月居】古月·ROS入门21讲 | 一学就会的ROS机器人入门教程】]( https://www.bilibili.com/video/BV1zt411G7Vn/?share_source=copy_web&vd_source=0dcdde79b7dae0137ed24d4067111edf)
+
+
 ### 2024/7/9更新
 1.资料下载链接可查看对应方向文件夹下txt<br><br>
 2.请大家每周日晚24:00前提交周报到邮箱 --> hb.c678999@88.com<br>
