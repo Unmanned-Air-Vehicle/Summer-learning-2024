@@ -1,4 +1,4 @@
-
+# 项目说明
 
 # 方向1：视觉slam/激光雷达slam
 
@@ -20,6 +20,8 @@
 
 
 
+
+
 # 方向2：机器人操作系统ROS
 
 # 2022上海市大学生电子设计竞赛Amazon+DeepRacer开源创新赛题
@@ -31,6 +33,8 @@
 完成效果：
 
 【2022年电赛亚马逊赛道ROS小车线上仿真】 https://www.bilibili.com/video/BV12R4y1R7z6/?share_source=copy_web&vd_source=0dcdde79b7dae0137ed24d4067111edf
+
+
 
 
 
@@ -51,7 +55,8 @@
 3.代码控制定点飞行（一键起飞+定点飞行+自动降落） 
 注：红色箭头方向为无人机正面朝向
 
-![image-20240804133646972](C:\Users\chb\AppData\Roaming\Typora\typora-user-images\image-20240804133646972.png)
+![image](https://github.com/user-attachments/assets/5a6ab92b-0cb1-4192-964f-4b61a020d693)
+
 
 4.试着修改姿态控制、位置控制的PID参数，观察有什么变化。
 
@@ -67,6 +72,10 @@
 
 https://docs.px4.io/main/zh/ros/offboard_control.html
 
+<br>
+
+# 项目链接
+https://www.123pan.com/s/JMPqVv-rY6KA.html提取码:uwEi
 
 
 
