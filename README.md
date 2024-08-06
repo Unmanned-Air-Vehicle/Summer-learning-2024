@@ -8,6 +8,18 @@
 
 ![feec2cc52733c8ae80eea2f701621bbb](https://github.com/user-attachments/assets/2ae380b2-26ba-4379-9de2-6ecc18ca1536)
 
+https://www.123pan.com/s/JMPqVv-rY6KA.html提取码:uwEi<br>
+【中期项目】Projects.zip<br>
+|<br>
+├── 方向1<br>
+│   ├── 2007.11898v2.pdf<br>
+│   └── ORB_SLAM3-master.zip<br>
+├── 方向2<br>
+│   └── P2.zip<br>
+└── 方向3<br>
+    &emsp;&emsp;├── 20.04 仿真环境.docx<br>
+    &emsp;&emsp;└── offboard.cpp<br>
+<br>
 
 ### 2024/7/14更新
 方向2 ROS补充资料
